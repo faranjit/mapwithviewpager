@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Map With ViewPager</string>
+    <string name="title_activity_maps">Map With ViewPager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="swipe_right">Swipe right to see the world!</string>
+</resources>
